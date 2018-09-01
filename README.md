@@ -1,4 +1,4 @@
 Alfred Workflows I use
 ======================
 
-[See the wiki](https://github.com/ebouchut/alfred-workflows/wiki)
+[Read more...](https://github.com/ebouchut/alfred-workflows/wiki)
